@@ -1,4 +1,4 @@
-# sa-les-dashboard-design-task-8
+# sales-dashboard-design-task-8
 Choose a sutable sales  data set.
 First step import file into power bi.
 Convert order date month\year format.
